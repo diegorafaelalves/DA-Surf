@@ -289,6 +289,12 @@
             gap: 2rem;
 
         }
+         
+        .footer-content img{
+            padding: 0;
+            margin: 0;
+        }
+    
         .logo-footer{
             text-align: center;
         }
