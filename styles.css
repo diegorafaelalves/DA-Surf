@@ -291,8 +291,13 @@
         }
          
         .footer-content img{
-            padding: 0;
-            margin: 0;
+            width: 30px;
+            cursor: pointer;
+    
+        }
+    
+        .footer-content img:first-child{
+            margin-right: 1rem;
         }
     
         .logo-footer{
