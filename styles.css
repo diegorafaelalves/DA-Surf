@@ -192,7 +192,7 @@
 
 
      .gray-background{
-        background-color: black;
+        background-color: whitesmoke;
      }
 
      .padding-inner-content{
@@ -302,7 +302,7 @@
             justify-content: center;
             flex-basis: 30%;
             text-align: center;
-            box-shadow: 0 0 15px #afafaf;
+            box-shadow: 0 0 15px gray;
             padding: 1rem ;
             border-radius: 1rem;
             cursor: pointer;
@@ -320,7 +320,7 @@
         .testimonials p:first-child{
            font-weight: bold ;
            font-size: 5rem;
-           color: whitesmoke;
+           color: black;
            margin-top: 3rem;
            line-height: 2rem;
         }
@@ -344,7 +344,7 @@
         .footer-content{
             display: flex;
             align-items: center;
-            color: black;
+            color:gray;
             padding: 4rem 1rem;
             gap: 2rem;
 
