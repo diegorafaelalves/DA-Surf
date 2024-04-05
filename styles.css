@@ -256,7 +256,7 @@
      }
 
      .exclusive-container{ 
-        color: whitesmoke;
+        color: black;
         flex-direction: row-reverse;
         padding: 5rem 1rem ;
 
@@ -289,56 +289,7 @@
 
         }
 
-        .testimonials{
-            display: flex;
-            padding: 4rem 1rem;
-            justify-content: space-evenly;
-        }
-
-        .testimonials{
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            flex-basis: 30%;
-            text-align: center;
-            box-shadow: 0 0 15px gray;
-            padding: 1rem ;
-            border-radius: 1rem;
-            cursor: pointer;
-            transition: all 0.2s;
-        }
-
-        .testimonials:hover{
-            transform: translateY(-5px);
-        }
-
-        .testimonials p{
-          margin: 5px 0;
-
-        }
-        .testimonials p:first-child{
-           font-weight: bold ;
-           font-size: 5rem;
-           color: black;
-           margin-top: 3rem;
-           line-height: 2rem;
-        }
-
-        .testimonials p:last-child{
-            font-weight: bold;
-        }
         
-        @media (max-width:800px){
-           .testimonials{
-            flex-direction: column;
-           }
-
-           .testimonials{
-            margin-bottom: 1.2rem;
-           }
-        }
-
 
 
         .footer-content{
