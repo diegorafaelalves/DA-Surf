@@ -291,8 +291,7 @@
         }
          
         .footer-content img{
-            max-width: 100%;
-            width: 500px;
+            width: 30px;
             cursor: pointer;
     
         }
