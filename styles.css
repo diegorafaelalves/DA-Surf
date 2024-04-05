@@ -192,7 +192,7 @@
 
 
      .gray-background{
-        background-color: gainsboro;
+        background-color: black;
      }
 
      .padding-inner-content{
@@ -256,7 +256,7 @@
      }
 
      .exclusive-container{ 
-        color: gray;
+        color: whitesmoke;
         flex-direction: row-reverse;
         padding: 5rem 1rem ;
 
@@ -320,7 +320,7 @@
         .testimonials p:first-child{
            font-weight: bold ;
            font-size: 5rem;
-           color: #afafaf;
+           color: whitesmoke;
            margin-top: 3rem;
            line-height: 2rem;
         }
